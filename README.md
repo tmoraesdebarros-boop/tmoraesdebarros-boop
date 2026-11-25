@@ -2,7 +2,7 @@
 
 # Quality Engineering | Software QA & Test Automation
 
-<p align="left"><img src="https://skillicons.dev/icons?i=postman,mysql,js,py,git,github,vscode&theme=dark" height="32" alt="Tech Stack" /> <img src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=2EAD33" height="32" /> <img src="https://img.shields.io/badge/Quality_Engineering-111827?style=for-the-badge&logo=checkmarx&logoColor=38BDF8" height="32" /> <img src="https://img.shields.io/badge/QA_%26_Testing-111827?style=for-the-badge&logo=testinglibrary&logoColor=34D399" height="32" /> <img src="https://img.shields.io/badge/BDD_%26_Gherkin-111827?style=for-the-badge&logo=cucumber&logoColor=4ADE80" height="32" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=postman,mysql,js,py,git,github,vscode&theme=dark" height="32" alt="Tech Stack" /> <img src="https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=googlechrome&logoColor=2EAD33" height="32" /> <img src="https://img.shields.io/badge/Quality_Engineering-111827?style=for-the-badge&logo=checkmarx&logoColor=38BDF8" height="32" /> <img src="https://img.shields.io/badge/QA_%26_Testing-111827?style=for-the-badge&logo=testinglibrary&logoColor=34D399" height="32" /> <img src="https://img.shields.io/badge/BDD_%26_Gherkin-111827?style=for-the-badge&logo=cucumber&logoColor=4ADE80" height="32" /></p>
 ---
 
 Profissional de Engenharia de Qualidade de Software com foco em garantia da qualidade, análise de requisitos, validação de sistemas e confiabilidade de aplicações.
