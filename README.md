@@ -32,6 +32,6 @@ Tenho interesse constante por estudar tecnologia e entender como os sistemas fun
 - Visão de jornada do cliente, conversão e impacto comercial de soluções e produtos
 
 ## Estudos & Evolução Técnica
-
 - Programação em Python aplicada à Engenharia de Qualidade
 - Aprofundamento em automação de testes, arquitetura de software e ferramentas de desenvolvimento
+- Inglês básico, em constante desenvolvimento e aprimoramento.
